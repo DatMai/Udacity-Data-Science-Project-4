@@ -38,7 +38,7 @@ Within the project, you will find the following files:
 ## Medium Blog Post:
 For a more detailed explanation of the technical aspects of my project, you can refer to my Medium Blog post. It discusses the main findings and provides insights into the project. The selected model, the Random Forest Classifier, achieved an impressive F1 score.
 
-`Link to Blog Post`:
+`Link to Blog Post`: https://medium.com/@phct869/sparkify-the-melodic-journey-unveiling-customer-churn-analysis-prediction-9a859dcd6836
 
 ## Licensing, Authors, Acknowledgements, etc.:
 Finally, I would like to thank Udacity and all parties involved for providing such interesting knowledge. It truly gives me a proper perspective on data science, and I hope in the future I can apply all the knowledge I have learned to real-life projects. Once again, thank you very much.
