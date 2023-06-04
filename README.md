@@ -1,2 +1,25 @@
 # Udacity-Data-Science-Project-4
-Sparkify Project
+## Sparkify Project
+![image](https://github.com/DatMai/Udacity-Data-Science-Project-4/assets/74104677/15ac28eb-1ae8-44f0-9994-6e1730f456a2)
+![image](https://github.com/DatMai/Udacity-Data-Science-Project-4/assets/74104677/6d08dd5e-d872-46e2-b90c-80f28e38f658)
+
+## Installations:
+`NumPy`
+`Pandas`
+`Seaborn`
+`Matplotlib`
+`PySpark SQL`
+`PySpark ML`
+
+The use of any other software or tools beyond the Anaconda distribution of Python and Jupyter notebooks is not necessary.
+
+## Project Motivation
+In this project, my aim was to predict customer churn for Sparkify, a fictional music streaming company. To accomplish this, the following tasks were undertaken:
+
+- Dataset Preparation: Loading and cleaning a smaller subset (128MB) of the complete dataset (12GB).
+
+- Exploratory Data Analysis (EDA):Conducting an in-depth analysis of the data to gain insights and determine which features are relevant for predicting churn.
+
+- Feature Engineering: Creating new features that would be utilized in the modeling process.
+
+- Modeling: Employing various machine learning algorithms, including Logistic Regression, Random Forest, Gradient Boosted Trees, Linear SVM, and Naive Bayes, to build predictive models.
