@@ -23,3 +23,14 @@ In this project, my aim was to predict customer churn for Sparkify, a fictional 
 - Feature Engineering: Creating new features that would be utilized in the modeling process.
 
 - Modeling: Employing various machine learning algorithms, including Logistic Regression, Random Forest, Gradient Boosted Trees, Linear SVM, and Naive Bayes, to build predictive models.
+
+## File Descriptions:
+Within the project, you will find the following files:
+
+1. Exploratory Notebook:
+
+- This notebook contains the code and analysis showcasing the process of predicting churn. Markdown cells are utilized throughout the notebook to provide explanations of the steps taken.
+
+2. HTML File:
+
+- An HTML version of the exploratory notebook is available for easy viewing and accessibility.
