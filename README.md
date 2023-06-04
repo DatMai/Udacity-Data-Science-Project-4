@@ -1,6 +1,6 @@
 # Udacity-Data-Science-Project-4
 ## Sparkify Project
-![image](https://github.com/DatMai/Udacity-Data-Science-Project-4/assets/74104677/15ac28eb-1ae8-44f0-9994-6e1730f456a2)
+![1_zHsRLXWzeNYHtanEDeY3YQ](https://github.com/DatMai/Udacity-Data-Science-Project-4/assets/74104677/b690f77e-89a2-47af-9015-20219df713ec)
 ![image](https://github.com/DatMai/Udacity-Data-Science-Project-4/assets/74104677/6d08dd5e-d872-46e2-b90c-80f28e38f658)
 
 ## Installations:
