@@ -37,6 +37,7 @@ Within the project, you will find the following files:
 
 ## Medium Blog Post:
 For a more detailed explanation of the technical aspects of my project, you can refer to my Medium Blog post. It discusses the main findings and provides insights into the project. The selected model, the Random Forest Classifier, achieved an impressive F1 score.
+
 `Link to Blog Post`:
 
 ## Licensing, Authors, Acknowledgements, etc.:
