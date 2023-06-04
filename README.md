@@ -13,7 +13,7 @@
 
 The use of any other software or tools beyond the Anaconda distribution of Python and Jupyter notebooks is not necessary.
 
-## Project Motivation
+## Project Motivation:
 In this project, my aim was to predict customer churn for Sparkify, a fictional music streaming company. To accomplish this, the following tasks were undertaken:
 
 - Dataset Preparation: Loading and cleaning a smaller subset (128MB) of the complete dataset (12GB).
@@ -34,3 +34,10 @@ Within the project, you will find the following files:
 2. HTML File:
 
 - An HTML version of the exploratory notebook is available for easy viewing and accessibility.
+
+## Medium Blog Post:
+For a more detailed explanation of the technical aspects of my project, you can refer to my Medium Blog post. It discusses the main findings and provides insights into the project. The selected model, the Random Forest Classifier, achieved an impressive F1 score.
+`Link to Blog Post`:
+
+## Licensing, Authors, Acknowledgements, etc.:
+Finally, I would like to thank Udacity and all parties involved for providing such interesting knowledge. It truly gives me a proper perspective on data science, and I hope in the future I can apply all the knowledge I have learned to real-life projects. Once again, thank you very much.
